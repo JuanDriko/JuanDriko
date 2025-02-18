@@ -16,9 +16,9 @@
 
 <br>
 
-- Soy un apasionado desarrollador front-end y Diseñador UI
-- Personal website [link][((https://juandriko.github.io/CV/))]
-- Actualmente estoy abierto a una nueva oportunidad laboral [Curriculum][(https://www.linkedin.com/in/juandiegorico/)]
+- 🚀 Soy un apasionado desarrollador Front-End y Diseñador UI.  
+- 🌐 [Mi sitio web personal](https://juandriko.github.io/CV/)  
+- 💼 Actualmente estoy abierto a una nueva oportunidad laboral. Puedes ver mi [Currículum en LinkedIn](https://www.linkedin.com/in/juandiegorico/)
 
 <br><br>
 
