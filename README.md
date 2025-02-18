@@ -17,9 +17,8 @@
 <br>
 
 - Soy un apasionado desarrollador front-end y Diseñador UI
-- Actualmente continuo aprendiendo Desarrollo Web por cuenta propia
-- Personal website [link](https://www.)
-- Actualmente estoy abierto a una nueva oportunidad laboral [Curriculum](www.linkedin.com/in/juan-diego-rico-maya-b2a95790)
+- Personal website [link](https://github.com/JuanDriko/CV)
+- Actualmente estoy abierto a una nueva oportunidad laboral [Curriculum][(https://www.linkedin.com/in/juandiegorico/)]
 
 <br><br>
 
